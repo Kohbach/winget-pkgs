@@ -9,14 +9,14 @@ ProductCode: marknote
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1543-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DECF066C4DF1E84043344D0516059AAC4D65773BA327A3A931729D046C4AA2BA
+  InstallerUrl: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1561-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: BC85BA64636D705E8947947D80DE77780D109422102045EE39447F4E884A75F8
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1543-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: DECF066C4DF1E84043344D0516059AAC4D65773BA327A3A931729D046C4AA2BA
+  InstallerUrl: https://cdn.kde.org/ci-builds/office/marknote/master/windows/marknote-master-1561-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: BC85BA64636D705E8947947D80DE77780D109422102045EE39447F4E884A75F8
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
