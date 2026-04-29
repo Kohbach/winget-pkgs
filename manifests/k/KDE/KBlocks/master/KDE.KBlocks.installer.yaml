@@ -9,14 +9,14 @@ ProductCode: kblocks
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-890-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AA5D7AC473D5401FEF9BFEDFED33CCD5D43EFD6A0878146B8A300A5669C7015C
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-907-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 786CA7F90542A9F02B9A4345AEA32A8F58730942D8DD5F2B987501A765B647DF
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-890-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AA5D7AC473D5401FEF9BFEDFED33CCD5D43EFD6A0878146B8A300A5669C7015C
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kblocks/master/windows/kblocks-master-907-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 786CA7F90542A9F02B9A4345AEA32A8F58730942D8DD5F2B987501A765B647DF
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
